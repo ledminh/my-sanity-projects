@@ -9,6 +9,11 @@ export default {
       title: 'Featured',
     },
     {
+      name: 'priority',
+      type: 'number',
+      title: 'Priority',
+    },
+    {
       name: 'name',
       type: 'string',
       title: 'Name',
